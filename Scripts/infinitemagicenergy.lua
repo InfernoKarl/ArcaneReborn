@@ -1,3 +1,5 @@
+-- THIS SCRIPT IS PATCHED, AND WILL NOT WORK PROPERLY
+
 getgenv().MagEn = true
 
 local Client = game:GetService("Players").LocalPlayer
